@@ -90,7 +90,7 @@ The objective was not statistical validation. It was to test whether public evid
 
 **Research environment:** Robotics & autonomous systems
 
-**Public signals:** Robotics, automation and intelligent-systems signals; HPC/GPU capacity; broader AI/autonomy ecosystem; no material enterprise OpenAI foothold identified in the preliminary public review.
+**Public signals:** Robotics, automation and intelligent-systems signals; HPC/GPU capacity; broader AI/autonomy ecosystem; no enterprise OpenAI deployment identified in the preliminary public review.
 
 **Discovery question:**
 
