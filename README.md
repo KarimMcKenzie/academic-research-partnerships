@@ -400,3 +400,24 @@ The qualification weights, partnership motions, operating frameworks, pilot stru
 **Academic Research Partnerships** is part of an independent portfolio exploring the operating layer between ambitious scientific ideas and successful execution — including AI adoption, research infrastructure, funding, institutions, partnerships, governance, and scalable program operations.
 
 This project was not commissioned by, affiliated with, or endorsed by OpenAI.
+---
+
+## Sources
+
+The institutional pressure tests in this project were developed from publicly available information. Public evidence was used to form preliminary hypotheses for further discovery, not conclusions about institutional demand, product fit, procurement readiness, or partnership interest.
+
+### Missouri University of Science and Technology
+
+- [Control Systems, Machine Learning and Robotics — Missouri S&T](https://mae.mst.edu/research/control-systems-machine-learning-and-robotics/)
+- [The Mill High-Performance Computing Cluster — Missouri S&T](https://itrss.mst.edu/cluster/mill/)
+
+### University of Delaware
+
+- [University of Delaware Research](https://research.udel.edu)
+- [Artificial Intelligence and Machine Learning — Department of Computer & Information Sciences](https://www.cis.udel.edu/research/artificial-intelligence/)
+- [University Generative AI Services List — University of Delaware](https://services.udel.edu/TDClient/32/Portal/KB/Article/1150/University-Generative-AI-Services-List)
+
+### University of Nebraska Medical Center
+
+- [Center for Biomedical Informatics Research and Innovation — UNMC](https://www.unmc.edu/cbiri/)
+- [Enterprise AI Tools — University of Nebraska](https://nebraska.edu/offices/information-technology-services/technology-support/artificial-intelligence/enterprise-tools)
