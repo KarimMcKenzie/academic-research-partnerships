@@ -30,7 +30,7 @@ The strategy is organized around five questions:
 
 **Common operating model; research-specific implementation.**
 
-Academic research is not a single environment. Computational research, engineering, biomedical science, behavioral science, and higher-governance research can have very different workflows, infrastructure needs, funding structures, and approval pathways.
+Academic research is not a single environment. Computational research, engineering, biomedical science, behavioral science, and research involving sensitive data or additional institutional requirements can have very different workflows, infrastructure needs, funding structures, and approval pathways.
 
 The partnership model can remain consistent while implementation adapts.
 
