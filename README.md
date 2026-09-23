@@ -199,7 +199,7 @@ The surrounding ecosystem may include:
 
 ## 4. Sustainable Adoption
 
-### Address funding and governance early — before they stall a promising pilot
+### Address funding and governance early before they stall a promising pilot
 
 **Pilot funding ≠ sustainable funding.**
 
