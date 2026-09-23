@@ -40,7 +40,7 @@ Success should ask not only whether AI makes existing work faster, but whether i
 
 ## 1. Target Identification & Qualification
 
-### Find the right funded labs — not just the biggest universities
+### Find the right funded labs, not just the biggest universities
 
 Sponsored-research volume can show where research activity is concentrated, but institutional funding alone does not identify the laboratories most likely to become successful partners.
 
