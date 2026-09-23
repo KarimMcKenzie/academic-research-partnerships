@@ -68,7 +68,7 @@ Public sources such as NIH RePORTER, NSF Award Search, and USAspending.gov can s
 **50–64:** Monitor  
 **<50:** Deprioritize
 
-### Use the score to focus attention — not replace judgment
+### Use the score to focus attention, not replace judgment
 
 Public evidence should create a **preliminary qualification hypothesis**, not a final answer.
 
